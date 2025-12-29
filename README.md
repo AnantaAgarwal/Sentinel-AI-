@@ -58,20 +58,17 @@ The platform enables a shift from:
 
 ## 🔄 System Pipeline
 
-Data Collection
-↓
-Data Preprocessing & Privacy
-↓
-Feature Engineering
-↓
-AI Analysis Layer
-↓
-Risk, Confidence & Equity Assessment
-↓
+Data Collection  
+⬇️  
+Data Preprocessing & Privacy  
+⬇️  
+Feature Engineering  
+⬇️  
+AI Analysis Layer  
+⬇️  
+Risk, Confidence & Equity Assessment  
+⬇️  
 Alerting & Decision Support
-
----
-
 
 ---
 
